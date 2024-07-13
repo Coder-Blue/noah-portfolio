@@ -10,7 +10,7 @@
 <header
   class={"sticky top-0 z-[10] flex items-center justify-between border-b border-solid px-6 duration-200 " +
     (y > 0
-      ? " border-violet-950 bg-slate-950 py-4"
+      ? " border-blue-950 bg-slate-950 py-4"
       : " border-transparent bg-transparent py-6")}
 >
   <h1 class="font-medium">
