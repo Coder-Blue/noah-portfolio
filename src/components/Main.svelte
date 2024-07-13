@@ -55,8 +55,8 @@
       <p class="text-base sm:text-lg md:text-xl">
         My <span class="text-blue-400">favorite tech</span> includes
         <span class="text-yellow-400"> JavaScript </span>
-        (NEXT.JS, SvelteKit, Vite or RSBuild), TailwindCSS, Node.js, Bun.js, Express.js
-        && PostgresSQL or Google Firebase/Firestore! <br /><br /> And
+        (NEXT.JS, SvelteKit, Vite or RSBuild), TailwindCSS, shadcn/ui, Node.js, Bun.js,
+        Express.js && PostgresSQL or Google Firebase/Firestore! <br /><br /> And
         <span class="text-orange-400"> Rust</span>, mostly Tauri, Tauri Mobile.
       </p>
       <a
