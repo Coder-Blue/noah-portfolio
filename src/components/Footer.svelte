@@ -54,5 +54,22 @@
         </sup>
       </a>
     </p>
+    <p>
+      <b class="pr-2">Website's GitHub Repo</b>
+      <a
+        href="https://github.com/Coder-Blue/noah-portfolio"
+        target="_blank"
+        class="text-blue-400"
+      >
+        Detail
+        <sup>
+          <span class="scale-75 pl-0.5 text-xs">
+            <i
+              class="fa-solid fa-arrow-up-right-from-square scale-[75%] text-xs"
+            />
+          </span>
+        </sup>
+      </a>
+    </p>
   </div>
 </footer>
