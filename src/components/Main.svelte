@@ -29,7 +29,7 @@
     {
       name: "a product design & UX finatic",
       description:
-        "I always want my user to have a good looking UI apps on their screen. So I'm a careful guy when choosing a design language for my app.",
+        "I always want my user to have a good looking UI app on their screen. So I'm a careful guy when choosing a design language for my apps. A guarantee for a harmony and symmetrical design UI/UX for users.",
     },
     {
       name: "an excellent communicator",
