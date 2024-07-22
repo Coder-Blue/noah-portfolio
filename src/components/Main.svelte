@@ -49,7 +49,7 @@
     >
       <h2 class="text-4xl font-semibold sm:text-5xl md:text-6xl">
         Hi! I'm <span class="quicksand text-blue-400">Noah</span> Trần
-        <br />An <strong class="text-blue-600"> Asexual</strong> Full Stack
+        <br />An <strong class="text-violet-600"> Asexual</strong> Full Stack
         <span class="quicksand text-blue-400">Developer</span>
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
