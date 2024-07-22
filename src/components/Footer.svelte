@@ -25,6 +25,23 @@
       </a>
     </p>
     <p>
+      <b class="pr-2">Facebook</b>
+      <a
+        href="https://www.facebook.com/noah.tran1109"
+        target="_blank"
+        class="text-blue-400"
+      >
+        Noah Trần
+        <sup>
+          <span class="scale-75 pl-0.5 text-xs">
+            <i
+              class="fa-solid fa-arrow-up-right-from-square scale-[75%] text-xs"
+            />
+          </span>
+        </sup>
+      </a>
+    </p>
+    <p>
       <b class="pr-2">Instagram</b>
       <a
         href="https://www.instagram.com/noah_tran1109"
