@@ -44,11 +44,11 @@
     <p>
       <b class="pr-2">Instagram</b>
       <a
-        href="https://www.instagram.com/noah_tran1109"
+        href="https://www.instagram.com/noah_muted/"
         target="_blank"
         class="text-blue-400"
       >
-        noah_tran1109
+        noah_muted
         <sup>
           <span class="scale-75 pl-0.5 text-xs">
             <i

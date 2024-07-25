@@ -60,7 +60,7 @@
         <span class="text-orange-400"> Rust</span>, mostly Tauri, Tauri Mobile.
       </p>
       <a
-        href="https://www.instagram.com/noah_tran1109/"
+        href="https://www.instagram.com/noah_muted/"
         target="_blank"
         class="blueShadow quicksand group relative mx-auto overflow-hidden rounded-full bg-white px-6 py-3 text-base text-slate-950 sm:text-lg md:text-xl lg:ml-0 lg:mr-auto"
       >

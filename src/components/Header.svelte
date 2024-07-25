@@ -28,7 +28,7 @@
       </a>
     {/each}
   </div>
-  <a href="https://www.instagram.com/noah_tran1109/" target="_blank">
+  <a href="https://www.instagram.com/noah_muted/" target="_blank">
     <button
       class="blueShadow group relative overflow-hidden rounded-full bg-white px-5 py-2 text-slate-950"
     >
