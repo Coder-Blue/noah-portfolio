@@ -13,9 +13,14 @@
       href: "https://argon-note.vercel.app/",
     },
     {
-      name: "Natri Social Media",
+      name: "Natri-re: A Social Media",
       icon: "fa-solid fa-globe",
       href: "https://natri-soc.vercel.app/",
+    },
+    {
+      name: "Natri: A Beta Social Media",
+      icon: "fa-solid fa-code",
+      href: "https://github.com/Coder-Blue/natri-social",
     },
   ];
 
@@ -112,9 +117,24 @@
       </Step>
       <Step step={steps[2]}>
         <p>
-          A clone of Instagram created with <strong class="text-blue-400">
-            RSBuild React and Firebase</strong
-          >. A simple to use social media app. Still in beta.
+          A clone of Twitter/Thread created with <strong class="text-blue-400">
+            NextJS, Shadcn/ui, Tanstack Query and Supabase</strong
+          >. A simple to use social media app. A slight upgrade to this
+          <a
+            href="https://github.com/Coder-Blue/natri-social"
+            target="_blank"
+            class="text-violet-400"
+          >
+            old repo version.
+          </a>
+        </p>
+      </Step>
+      <Step step={steps[3]}>
+        <p>
+          A simple clone of Instagram created with <strong class="text-blue-500"
+            >React SPA, Vite, ChakraUI and Google Firebase.</strong
+          > The lack of feature makes users frustrated so I decided to make a small
+          upgrade.
         </p>
       </Step>
     </div>

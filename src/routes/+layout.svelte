@@ -3,9 +3,11 @@
   import { inject } from "@vercel/analytics";
   import Header from "../components/Header.svelte";
   import Footer from "../components/Footer.svelte";
+  import { injectSpeedInsights } from "@vercel/speed-insights/sveltekit";
   import "../app.css";
 
   inject({ mode: dev ? "development" : "production" });
+  injectSpeedInsights();
 
   let y;
   let innerWidth = 0;
