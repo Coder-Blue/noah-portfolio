@@ -3,12 +3,12 @@
 
   let steps = [
     {
-      name: "Zircon AI App",
+      name: "Zircon AI App: An AI Chat App",
       icon: "fa-regular fa-message",
       href: "https://github.com/Coder-Blue/zircon-app-op",
     },
     {
-      name: "Argon Note App",
+      name: "Argon Note App: A Notion Clone",
       icon: "fa-regular fa-note-sticky",
       href: "https://argon-note.vercel.app/",
     },
@@ -21,6 +21,11 @@
       name: "Natri: A Beta Social Media",
       icon: "fa-solid fa-code",
       href: "https://github.com/Coder-Blue/natri-social",
+    },
+    {
+      name: "Calculator: A simple app built in SvelteKit Rune and Tauri",
+      icon: "fa-solid fa-calculator",
+      href: "https://github.com/Coder-Blue/svelte-calculator",
     },
   ];
 
@@ -135,6 +140,13 @@
             >React SPA, Vite, ChakraUI and Google Firebase.</strong
           > The lack of feature makes users frustrated so I decided to make a small
           upgrade.
+        </p>
+      </Step>
+      <Step step={steps[4]}>
+        <p>
+          A simple calculator app created with <strong class="text-blue-500"
+            >SvelteKit Rune and Tauri</strong
+          > It's a fun project for research purpose so don't take it too serious.
         </p>
       </Step>
     </div>
