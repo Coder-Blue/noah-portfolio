@@ -1,6 +1,7 @@
 <script>
   import { dev } from "$app/environment";
   import { inject } from "@vercel/analytics";
+  import SvelteSeo from "svelte-seo";
   import Header from "../components/Header.svelte";
   import Footer from "../components/Footer.svelte";
   import "../app.css";
@@ -15,6 +16,31 @@
     document.body.scrollIntoView();
   }
 </script>
+
+<SvelteSeo
+  title="Noah Trần's Svelte Portfolio"
+  description="The Personal SvelteKit Portfolio website of Trần Ngô Anh Quân/Noah Trần/Sh1ro"
+  keywords="Noah Trần, SvelteKit, Tailwindcss, JavaScript, Portfolio, ParticlesJS"
+  canonical="https://noah-sh1ro.vercel.app/"
+  author="Noah Trần"
+  openGraph={{
+    title: "Noah Trần.dev",
+    description:
+      "Just a silly portfolio developed with SvelteKit, JavaScript & ParticlesJS.",
+    url: "https://noah-sh1ro.vercel.app/",
+    image: "https://i.ibb.co/VNTs6tF/og-noah.jpg",
+    type: "website",
+    site_name: "Noah Trần.dev",
+  }}
+  twitter={{
+    card: "summary_large_image",
+    site: "@not_sh1ro",
+    title: "Noah Trần's Svelte Portfolio",
+    description:
+      "The Personal SvelteKit Portfolio website of Trần Ngô Anh Quân/Noah Trần/Sh1ro",
+    image: "https://i.ibb.co/VNTs6tF/og-noah.jpg",
+  }}
+/>
 
 <div
   class="relative mx-auto flex min-h-screen w-full max-w-[1400px] flex-col text-sm sm:text-base"

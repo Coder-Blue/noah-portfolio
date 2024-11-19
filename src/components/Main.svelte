@@ -27,6 +27,11 @@
       icon: "fa-solid fa-calculator",
       href: "https://github.com/Coder-Blue/svelte-calculator",
     },
+    {
+      name: "Zircon Blue: An Imperfect NextJS 15 Google Drive clone",
+      icon: "fa-solid fa-database",
+      href: "https://zircon-blue.vercel.app",
+    },
   ];
 
   let benefits = [
@@ -147,6 +152,15 @@
           A simple calculator app created with <strong class="text-blue-500"
             >SvelteKit Rune and Tauri</strong
           > It's a fun project for research purpose so don't take it too serious.
+        </p>
+      </Step>
+      <Step step={steps[5]}>
+        <p>
+          A simple Google Drive clone project created with <strong
+            class="text-blue-500"
+          >
+            NextJS 15, React 19, shadnc/ui, and Appwrite Database.
+          </strong> Which is scalable and flexible for basic cosumption.
         </p>
       </Step>
     </div>
