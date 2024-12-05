@@ -39,7 +39,7 @@
       metric: "10x",
       name: "a self taught developer",
       description:
-        "I taught myself to code using free online resources and absolutely fell in love with the creativity and problem solving that is involved in developing and engineering innovative new online experiences. Currently all of my works and researchs are quite decent in the JavaScript Ecosystem. And I won't be hesitate to learn new things everyday.",
+        "I taught myself to code using free online resources and absolutely fell in love with the creativity and problem solving that is involved in developing and engineering innovative new online experiences. Currently all of my works and researchs are quite decent in the JavaScript Ecosystem. And I won't hesitate to learn new things everyday.",
     },
     {
       name: "a product design & UX finatic",
